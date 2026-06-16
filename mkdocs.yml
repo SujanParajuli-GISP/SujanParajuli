@@ -11,7 +11,7 @@ site_name: "Sujan Parajuli - Geospatial Portfolio"
 site_description: "Portfolio of Sujan Parajuli — GIS, Remote Sensing, and Spatial Data Science"
 site_author: "Sujan Parajuli"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
-#site_url: "https://sujanparajuli-gisp.github.io/your-repo-name"
+#site_url: "https://sujanparajuli-gisp.github.io/SujanParajuli/"
 
 theme:
   name: material
@@ -26,14 +26,14 @@ theme:
     # Available colors: red, pink, purple, deep purple, indigo, blue, light blue,
     # cyan, teal, green, light green, lime, yellow, amber, orange, deep orange
     - scheme: default            # Light mode
-      primary: indigo
-      accent: blue
+      primary: amber
+      accent: teal
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate              # Dark mode
-      primary: indigo
-      accent: blue
+      primary: amber
+      accent: teal
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -64,9 +64,9 @@ copyright: "Copyright &copy; [YOUR NAME]"
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/SujanParajuli-GISP
+      link: https://sujanparajuli-gisp.github.io/SujanParajuli/
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/sujan.parajuli9
+      link: https://www.linkedin.com/in/sujanparajuli9/
     - icon: material/email
       link: mailto:sujan.parajuli2070@gmail.com
 
@@ -90,4 +90,5 @@ nav:
     # 4. Add a project card on docs/projects/index.md
   - Publications: publications.md
   - Experience: experience.md
+  - Resources: resources.md
   - Contact: contact.md
