@@ -20,7 +20,7 @@ CHECKLIST FOR THIS PAGE:
 <div class="timeline-entry" markdown>
 
 ### GIS Consultant — Arizona Department of Environmental Quality (AZDEQ)
-*March 2025 – May 2026 | Arizona, USA*
+*March 2025 – June 2026 | Arizona, USA*
 
 - Developed deployable web mapping applications with ArcGIS Enterprise and Python to support environmental data analysis and business decisions.
 - Designed and deployed a Survey123-based data collection tool for recruiting and managing agency volunteers; supported PFAS sampling data management for environmental monitoring.
