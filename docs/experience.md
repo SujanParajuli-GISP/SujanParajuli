@@ -42,7 +42,7 @@ CHECKLIST FOR THIS PAGE:
 <div class="timeline-entry" markdown>
 
 ### GIS Data Analyst / Developer — Astor and Sanders (contractor to USFWS)
-*May 2024 – Present | USA*
+*May 2024 – October 2024 | USA*
 
 - Utilized R, Python, and Shiny to develop data processing pipelines and interactive applications for species range mapping in collaboration with conservation biologists.
 - Provided expert support in developing and refining statistical and machine learning algorithms deployed in data products and services.
