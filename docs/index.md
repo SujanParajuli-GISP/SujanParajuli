@@ -19,10 +19,10 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <img src="assets/images/profile.png" alt="Sujan Parajuli" class="profile-photo">
+  <h1>Sujan Parajuli</h1>
+  <p><strong>Geospatial Consultant</strong></p>
+  <p><em>Turning spatial data into insights | GIS | Remote Sensing | LiDAR | Data Science | Machine Learning | ArcGIS Pro | QGIS | HPC | Cloud Computing | Python | R | WebGIS </em></p>
 </div>
 
 ---
@@ -32,15 +32,18 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
+I am dedicated Certified (GISP 162370) Geospatial Data Professional with proven expertise in
+remote sensing, geospatial data management, and GIS application development for federal and
+environmental programs.
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+With experience at USGS EROS, NOAA NMFS, and the Arizona Department of Environmental Quality (ADEQ), 
+I have led transformative projects applying remote sensing, machine learning, and cloud GIS to solve critical challenges in ecosystem monitoring and environmental data management.
+
+At USGS, I advanced automated workflows for large-scale invasive species mapping across the western U.S., integrating satellite imagery with AI-based land cover models. At ADEQ, I modernized GIS and data systems for statewide environmental programs, developing spatial tools and survey applications that improved community engagement and PFAS sampling operations.
+
+As a co-author of several peer-reviewed publications, I demonstrate a commitment to advancing geospatial research and open, reproducible science. My vision centers on democratizing access to geospatial intelligence and empowering agencies to make data-driven environmental decisions.
+
+
 
 </div>
 
@@ -53,7 +56,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Sujan-CV.pdf){ .md-button }
 
 
 ---
@@ -118,5 +121,5 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/SujanParajuli-GISP){ .md-button }
+[LinkedIn](https://www.linkedin.com/in/sujanparajuli9/){ .md-button }
