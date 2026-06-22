@@ -28,6 +28,7 @@ Remote Sensing Projects Coming Soon !!
 `Python` `GEE` `ML`
 
 [View Project →](sample-project.md){ .md-button }
+
 </div>
 
 <div class="project-card" markdown>
@@ -42,4 +43,16 @@ Coming Soon !!
 [View Project →](sample-notebook.ipynb){ .md-button }
 </div>
 
+</div>
+
+<div class="project-card" markdown>
+<!-- ![](../assets/images/placeholder-notebook.png) -->
+
+**[Downloading DEM OpenTopography](Module_1_Downloading_DEM_OpenTopography.ipynb)**
+
+
+
+`Python` `geopandas` `rasterio`
+
+[View Project →](Module_1_Downloading_DEM_OpenTopography.ipynb){ .md-button }
 </div>

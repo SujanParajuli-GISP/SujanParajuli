@@ -82,6 +82,11 @@ nav:
     - "All Projects": projects/index.md
     - "Sample Project": projects/sample-project.md
     - "Jupyter Notebook Project": projects/sample-notebook.ipynb
+    - "Downloading DEMs from OpenTopography Web API": projects\Module_1_Downloading_DEM_OpenTopography.ipynb
+    - "Geospatial Libraries": projects\Module_1_Ex02_Geospatial_Libraries.ipynb
+    - "Raster Data Processing": projects\Module_1_Ex03_Raster_Processing.ipynb
+    - "Vector Data Processing": projects\Module_1_Ex04_Vector_Processing.ipynb
+    - "Folium Maps": projects\Module_1_Ex05_Folium_Interactive_Maps.ipynb
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
     #    (or drop an .ipynb file into docs/projects/ for a Jupyter notebook project)
