@@ -1,6 +1,6 @@
 # Sujan Parajuli's Portfolio
 
-This is the repository for my portfolio website. The portfolio is hosted at https://sujanparajuli-gisp.github.io/
+This is the repository for my portfolio website. The portfolio is hosted at https://sujanparajuli-gisp.github.io/](https://sujanparajuli-gisp.github.io/SujanParajuli/
 
  This website is built using the following tools
  
