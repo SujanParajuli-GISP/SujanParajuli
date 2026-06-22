@@ -65,9 +65,9 @@ CHECKLIST FOR THIS PAGE:
 
 - Dahal, D., Boyte, S.P., **Parajuli, S.**, Pastick, N.J., Megard, L., Postma, K., et al. (2023). *Early estimates of exotic annual grass (EAG) in the Sagebrush Biome, USA, 2023*. U.S. Geological Survey Data Release.
 
-- Pastick, N.J., Wylie, B.K., Rigge, M.B., Dahal, D., Boyte, S.P., Jones, M.O., Allred, B.W., et al. (2021). *Historic and future trends in exotic annual grass (%) cover in the western US (1985–2019 and 2025–2040)*. U.S. Geological Survey Data Release.
+- Pastick, N.J., Wylie, B.K., Rigge, M.B., Dahal, D., Boyte, S.P., Jones, M.O., Allred, B.W., **Parjuli, S.**, Wu, Z. (2021). *Historic and future trends in exotic annual grass (%) cover in the western US (1985–2019 and 2025–2040)*. U.S. Geological Survey Data Release.
 
-- Pastick, N.J., Wylie, B.K., Rigge, M.B., Dahal, D., Boyte, S.P., Jones, M.O., Allred, B.W., et al. (2021). *Modelled long-term wildfire occurrence probabilities in sagebrush-dominated ecosystems in the western US (1985–2019)*. U.S. Geological Survey Data Release.
+- Pastick, N.J., Wylie, B.K., Rigge, M.B., Dahal, D., Boyte, S.P., Jones, M.O., Allred, B.W.,**Parjuli, S.**, Wu, Z. (2021). *Modelled long-term wildfire occurrence probabilities in sagebrush-dominated ecosystems in the western US (1985–2019)*. U.S. Geological Survey Data Release.
 
 - Dahal, K., Talchabhadel, R., Pradhan, P., **Parajuli, S.**, Shrestha, D., Chhetri, R., et al. (2025). *Nepal's forest fire susceptibility, carbon stock, and biodiversity at risk*. Potsdam Institute for Climate Impact Research.
 
