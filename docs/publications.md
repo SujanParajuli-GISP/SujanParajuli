@@ -30,11 +30,17 @@ CHECKLIST FOR THIS PAGE:
 ## Conference Papers & Presentations
 
 1. Lo, F., Diaz, M., Ardon-Dryer, K., **Parajuli, S.**, & Ovienmhada, U. (2024). "Climate-Related Health Risks Associated with Societal and Environmental Inequities II." *American Geophysical Union Annual Meeting (AGU24)*.
-2. **Parajuli, Sujan** and Jamie Spinney. 2017. Noise mapping of an educational environment: A case study at  South Dakota State University. Paper presented at the Great Plains Rocky Mountains (GPRM) Annual Meeting, Grand Forks, North Dakota, USA, October 13-15. 
-3. **Parajuli, Sujan**, and Darrell Napton. 2017. Modeling the movement of mountain pine beetle in the Black  Hills. Paper presented at the Association of American Geographers (AAG) Convention, Boston,  USA, April 5-9. 
-4. **Parajuli, Sujan**. 2016. Wildfire Risk Assessment of the Central Western Region, Nepal Using GIS Model. Poster presented on World GIS Day at the USGS, EROS Center, Sioux Falls, November 16. 
-5. **Parajuli, Sujan.** 2016. Spatial and Temporal Patterns of Mountain Pine Beetle Infestation in the Black  Hills, USA. Poster presented at the Present Environment and Sustainable Development (PESD)  Conference, Iasi, Romania, June 2-5. 
-6. **Parajuli, Sujan.** 2015. Ecosystem and Climate Change. Poster presented at the International Student  Conference on Ecosystem and Sustainability (ISCES), Shanghai, China, June 1-5. 
+2. **Parajuli, S.**,Dahal, D.,Boyte, S.P., and Megard, L.J.,2024,Prototyping Sentinel-2 data to develop 10-m NDVI-based Cheatgrass Maps in Snake River Plain using machine learning. Paper presented at the Society for Range Management (SRM) Annual Meeting, Sparks, Nevada, USA, January 28 - February 1.
+3. Boyte, S.P., Dahal, D., Pastick, N.J., **Parajuli, S.**, and Megard, L.J., 2023, Bi-weekly early estimates of exotic annual grass in rangelands of the western United States [abs.], in Rangelands without Borders, Annual Meeting, 76th, Boise, Idaho, 12–16 February 2023: Littleton, Colo., Society for Range Management
+4. Boyte, S.P., Dahal, D., **Parajuli, S.**, Megard, L.J., and Shrestha, D., 2023, Early estimates of exotic annual grass distribution and abundance in western rangelands, USA [poster], in NAISMA Annual Conference, Lincoln, Nebr., 16–19 October 2023: Monona, Wis., North American Invasive Species Management Association.
+5. Boyte, S.P., Benedict, T.D., Megard, L.J., **Parajuli, S.**, Shrestha, D., and Dahal, D., 2022, The development and application of remotely sensed exotic annual grass phenology metrics in the western U.S. rangelands [abs.], in Pecora Remote Sensing Symposium, 22nd, Denver, Colo., 24–27 October 2022: Bethesda, Md., American Society for Photogrammetry and Remote Sensing.
+6. Pastick, N. J., Dahal, D., Wylie, B. K., **Parajuli, S.**, Boyte, S., & Wu, Z. (2019, December). Operational cheatgrass mapping using Landsat and Sentinel-2 data in harmony. In AGU Fall Meeting 2019. AGU.
+7. **Parajuli, Sujan** and Jamie Spinney. 2018. Noise mapping of an educational environment: A case study at South Dakota State University. Paper presented at the Association of American Geographers (AAG) Convention, New Orleans, Liousiana, USA, April 5-9.
+8. **Parajuli, Sujan** and Jamie Spinney. 2017. Noise mapping of an educational environment: A case study at  South Dakota State University. Paper presented at the Great Plains Rocky Mountains (GPRM) Annual Meeting, Grand Forks, North Dakota, USA, October 13-15. 
+9. **Parajuli, Sujan**, and Darrell Napton. 2017. Modeling the movement of mountain pine beetle in the Black  Hills. Paper presented at the Association of American Geographers (AAG) Convention, Boston,  USA, April 5-9. 
+10. **Parajuli, Sujan**. 2016. Wildfire Risk Assessment of the Central Western Region, Nepal Using GIS Model. Poster presented on World GIS Day at the USGS, EROS Center, Sioux Falls, November 16. 
+11. **Parajuli, Sujan.** 2016. Spatial and Temporal Patterns of Mountain Pine Beetle Infestation in the Black  Hills, USA. Poster presented at the Present Environment and Sustainable Development (PESD)  Conference, Iasi, Romania, June 2-5. 
+12. **Parajuli, Sujan.** 2015. Ecosystem and Climate Change. Poster presented at the International Student  Conference on Ecosystem and Sustainability (ISCES), Shanghai, China, June 1-5. 
 
 
 ---

@@ -27,6 +27,7 @@ Feel free to reach out through any of the channels below.
 | :fontawesome-brands-linkedin: **LinkedIn** | [https://www.linkedin.com/in/sujanparajuli9/](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]) |
 | :material-school: **ResearchGate** | [https://www.researchgate.net/profile/Sujan-Parajuli](https://www.researchgate.net/profile/[YOUR-PROFILE]) |
 
+
 ---
 
 [Download CV :material-download:](assets/Sujan-CV.pdf){ .md-button .md-button--primary }
