@@ -23,7 +23,7 @@ Feel free to reach out through any of the channels below.
 | | |
 |---|---|
 | :material-email: **Email** | [sujan.parajuli2070@gmail.com](mailto:sujan.parajuli2070@gmail.com) |
-| :fontawesome-brands-github: **GitHub** | [https://github.com/SujanParajuli-GISP](https://github.com/SujanParajuli-GISP]) |
+| :fontawesome-brands-github: **GitHub** | [https://github.com/SujanParajuli-GISP](https://github.com/SujanParajuli-GISP) |
 | :fontawesome-brands-linkedin: **LinkedIn** | [https://www.linkedin.com/in/sujanparajuli9/](https://linkedin.com/in/sujanparajuli9/) |
 | :material-school: **ResearchGate** | [https://www.researchgate.net/profile/Sujan-Parajuli](https://www.researchgate.net/profile/Sujan-Parajuli) |
 
