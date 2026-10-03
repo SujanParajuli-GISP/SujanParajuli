@@ -80,19 +80,19 @@ nav:
   - Home: index.md
   - Projects:
     - "All Projects": projects/index.md
-    - "Sample Project": projects/sample-project.md
-    - "Jupyter Notebook Project": projects/sample-notebook.ipynb
-    - "Downloading DEMs from OpenTopography Web API": projects\Module_1_Downloading_DEM_OpenTopography.ipynb
-    - "Geospatial Libraries": projects\Module_1_Ex02_Geospatial_Libraries.ipynb
-    - "Raster Data Processing": projects\Module_1_Ex03_Raster_Processing.ipynb
-    - "Vector Data Processing": projects\Module_1_Ex04_Vector_Processing.ipynb
-    - "Folium Maps": projects\Module_1_Ex05_Folium_Interactive_Maps.ipynb
-    # HOW TO ADD A NEW PROJECT:
-    # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
-    #    (or drop an .ipynb file into docs/projects/ for a Jupyter notebook project)
-    # 2. Edit the new file with your project content
-    # 3. Add a line below (same format): - "Your Project Title": projects/your-project-name.md
-    # 4. Add a project card on docs/projects/index.md
+    - "Nepal Hydro-Climatic Risk Atlas": projects/risk-atlas.md
+    - "100 Remote Sensing Applications": projects/rs-100-applications.md
+    - "Geodatabase Management Course": projects/geodatabase-course.md
+    - "GIS Project Examples & Tutorials": projects/gis-modelbuilder-python.md
+    - "Remote Sensing with Python Program": projects/rs-gis-course.md
+    - "GEE-O-Spatial Website": projects/gee-o-spatial.md
+    - "Download & Clip a DEM (Colab)": projects/Module_1_Downloading_DEM_OpenTopography.ipynb
+    - "Geospatial Libraries Tour (Colab)": projects/Module_1_Ex02_Geospatial_Libraries.ipynb
+    - "Raster Processing (Colab)": projects/Module_1_Ex03_Raster_Processing.ipynb
+    - "Vector Processing (Colab)": projects/Module_1_Ex04_Vector_Processing.ipynb
+    - "Interactive Maps with Folium (Colab)": projects/Module_1_Ex05_Folium_Interactive_Maps.ipynb
+    # HOW TO ADD A NEW PROJECT: add a page in docs/projects/, a nav line above,
+    # and a card in docs/projects/index.md
   - Publications: publications.md
   - Experience: experience.md
   - Resources: resources.md
